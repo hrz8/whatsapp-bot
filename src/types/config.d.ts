@@ -96,7 +96,7 @@ declare type Config = {
    * Set a default footer for messages that require a footer
    * @type {number}
    * @example
-   * footer: "@arugaz"
+   * footer: "@hrz8"
    */
   footer: string
   /**

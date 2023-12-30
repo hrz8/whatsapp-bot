@@ -1,4 +1,4 @@
-import { WAMessage } from "baileys"
+import { WAMessage } from "@whiskeysockets/baileys"
 import WAClient, { database } from "../../../libs/whatsapp"
 import type { MessageSerialize } from "../../../types/serialize"
 

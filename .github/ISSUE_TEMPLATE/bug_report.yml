@@ -3,8 +3,7 @@ description: Create a report to help improve the repository
 title: "[BUG] <title>"
 labels: ["bug"]
 assignees:
-  - arugaz
-  - tobyg74
+  - hrz8
 body:
   - type: textarea
     id: description

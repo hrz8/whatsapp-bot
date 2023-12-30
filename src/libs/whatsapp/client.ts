@@ -17,7 +17,7 @@ import makeWASocket, {
   toBuffer,
   WAMediaUpload,
   WAMessageStubType
-} from "baileys"
+} from "@whiskeysockets/baileys"
 
 import { auth, database } from "../../libs/whatsapp"
 import Database from "../../libs/database"

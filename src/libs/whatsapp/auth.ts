@@ -1,6 +1,6 @@
 import type { PrismaClient } from "@prisma/client"
-import { BufferJSON, initAuthCreds, proto } from "baileys"
-import type { AuthenticationCreds, SignalDataTypeMap } from "baileys"
+import { BufferJSON, initAuthCreds, proto } from "@whiskeysockets/baileys"
+import type { AuthenticationCreds, SignalDataTypeMap } from "@whiskeysockets/baileys"
 import type { ArugaAuth } from "../../types/client"
 
 export const useMultiAuthState = async (Database: PrismaClient): Promise<ArugaAuth> => {

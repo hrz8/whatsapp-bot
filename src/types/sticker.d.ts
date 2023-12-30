@@ -3,7 +3,7 @@
  */
 export type StickerOptions = {
   /** Sticker Pack title
-   * @default arugaz
+   * @default hrz8
    */
   pack?: string
   /** Sticker Pack Author
